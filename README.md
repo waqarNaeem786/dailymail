@@ -1,1 +1,1 @@
-<video controls src="automation.mp4" title="Title"></video>
+<video controls src="automation.mp4" width="100" height="100" title="Title"></video>
